@@ -1,0 +1,7 @@
+* ebloc-helpful-binaries
+
+Some helpful binaries that is used by eBloc projects
+
+- [[./binaries/solc-v0.7.6-aarch64]]
+
+  ~arrch64~ binary for ~solc~ that could be used by ARM instances in Amazon AWS.
